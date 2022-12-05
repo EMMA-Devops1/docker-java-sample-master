@@ -30,4 +30,3 @@ This repository contain samples that shows integration of Docker and Java.
 . Build image: `./gradlew dockerBuildImage`
 . Run container: `./gradlew startContainer`
 
-#...
